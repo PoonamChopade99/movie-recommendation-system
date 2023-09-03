@@ -6,7 +6,7 @@
 
 ### Built with
 
-- Python (3.8) 
+- Python  
 
 ### Libraries used
 
